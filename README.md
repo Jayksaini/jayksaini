@@ -12,7 +12,7 @@
 </p>
 <br>
 <br>
-
+<br>
 <br>
 <br>
 <hr>
@@ -20,7 +20,7 @@
 **Let's talk about Technical Stuffs:**
 
 - 🔭 I’m currently a First Year Enginnering student.
-- 🌱 I’m currently Web Development. 
+- 🌱 I’m currently learning Web Development. 
 - 💬 Ask me about anything, I am Cinephile.
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 - 📫 How to reach me jay.ksaini95@gmail.com
