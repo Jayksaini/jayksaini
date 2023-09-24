@@ -7,9 +7,8 @@
 <img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   <br>
-<p align="center" width="150px">I am currently a First Year student at COER Roorkee pursuing my BCA degree. Also, currently I am focused on strengthening my programming skills, particularly in React Native. I believe in learning everyday something new..</p>
+<p align="center" width="150px">I am currently a First Year student at COER Roorkee pursuing my BCA degree. Also, currently I am focused on strengthening my programming skills, particularly in React Native. And I believe in learning everyday something new..</p>
 </p>
-<br>
 <br>
 <hr>
 
