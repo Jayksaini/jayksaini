@@ -4,7 +4,7 @@
 
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=30&center=true&vCenter=true&width=700%&lines=Front+End+Developer;Tech+Enthusiast;BCA+Undergraduate"/><hr>  
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   <br>
 <p align="center" width="150px">I am currently a First Year student at COER Roorkee pursuing my BCA degree. I believe in learning everyday something new..</p>
